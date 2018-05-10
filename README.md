@@ -13,9 +13,9 @@ Commits N Crosses
 
 -------------
 
- Player X: ________
+ Player X: ____Jacob____
  
- Player O: ________
+ Player O: _______Elvis_
 
 -------------
 
